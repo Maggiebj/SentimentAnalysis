@@ -26,4 +26,4 @@ sentiment_testcnn_glove.ipynb--Built, train and compare the textcnn model with d
 # Licensing, Authors, Acknowledgements:
 
 Conv2d cnn idea from (https://github.com/Shawn1993/cnn-text-classification-pytorch/blob/master/model.py)
-Conv1d cnn idea from the book of <Dive Into DEEP Learning>
+Conv1d cnn idea from the book of "Dive Into DEEP Learning"
