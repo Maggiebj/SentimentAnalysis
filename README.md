@@ -10,7 +10,7 @@ The second one has concatenating glove embedding with normal initialized embeddi
 The third one has single glove embedding layer with constant embedding parameters. (accuracy 80.9%)
 
 
-Update: Added sentiment analysis with machine learning and tfidf. Logisticregression with tfidf got 88.47% accuracy --2020.12.31
+Update: Added sentiment analysis with machine learning.  Logisticregression model with tfidf got 88.47% accuracy --2020.12.31
 
 ## File Descriptions
 There are 3 notebook files in the product.
